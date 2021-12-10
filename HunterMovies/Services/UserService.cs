@@ -48,10 +48,6 @@ namespace HunterMovies.Services
             return tokenHandler.WriteToken(token);
         }
 
-        public IEnumerable<User> GetAll()
-        {
-            return context.Users.ToList();
-        }
 
         public User GetById(Guid id)
         {

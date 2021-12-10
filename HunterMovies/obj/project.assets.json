@@ -5923,11 +5923,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cristian.gomez\\source\\repos\\HunterMovies\\HunterMovies\\HunterMovies.csproj",
+      "projectUniqueName": "C:\\Users\\cristian.gomez\\Desktop\\Hunter-Prueba\\HunterMovies\\HunterMovies.csproj",
       "projectName": "HunterMovies",
-      "projectPath": "C:\\Users\\cristian.gomez\\source\\repos\\HunterMovies\\HunterMovies\\HunterMovies.csproj",
+      "projectPath": "C:\\Users\\cristian.gomez\\Desktop\\Hunter-Prueba\\HunterMovies\\HunterMovies.csproj",
       "packagesPath": "C:\\Users\\cristian.gomez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cristian.gomez\\source\\repos\\HunterMovies\\HunterMovies\\obj\\",
+      "outputPath": "C:\\Users\\cristian.gomez\\Desktop\\Hunter-Prueba\\HunterMovies\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cristian.gomez\\AppData\\Roaming\\NuGet\\NuGet.Config",

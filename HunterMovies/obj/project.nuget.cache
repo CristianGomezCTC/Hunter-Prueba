@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lJny4mmL55DyLS0oNHd2k1g2E33sXvmXFXWNqGQWsFRCj/ExKVDzIzglHJB9SRuwPSE17C4q060qcyyP2cKV4g==",
+  "dgSpecHash": "H9kfqqhsVBvbygY4h763HXu4Mah0NmRhZpQlaPEghIO6wVQA8ebSbcMBfkl3G9vQJNzLFWtJZOAHXc3dD+GoYg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cristian.gomez\\source\\repos\\HunterMovies\\HunterMovies\\HunterMovies.csproj",
+  "projectFilePath": "C:\\Users\\cristian.gomez\\Desktop\\Hunter-Prueba\\HunterMovies\\HunterMovies.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cristian.gomez\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\cristian.gomez\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

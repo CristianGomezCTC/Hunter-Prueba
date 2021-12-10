@@ -37,8 +37,7 @@ namespace HunterMovies.Controllers
         [HttpGet]
         public IActionResult GetAll()
         {
-            var users = userService.GetAll();
-            return Ok(users);
+            return Ok(new { message="Authorized"});
         }
     }
 }

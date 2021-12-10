@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Cxe0o8UuL8ke8Cikj/AVuPCovGswRH2xZP1EeaoHUUVOQ6La1OcoDvKh4o/2tT3F5XeEaoeklRP4bLU2J3QmPA==",
+  "dgSpecHash": "vRGjPirFdwPqkxqyBIfK1U6y+DpWj9T5OFte7ASAev4iif2+8EoXIP9BvMeS2M+Mvv3R6vxXU8flkTqbNAeQkg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cristian.gomez\\source\\repos\\HunterMovies\\HunterTest\\HunterTest.csproj",
+  "projectFilePath": "C:\\Users\\cristian.gomez\\Desktop\\Hunter-Prueba\\HunterTest\\HunterTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cristian.gomez\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\cristian.gomez\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",

@@ -8295,11 +8295,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cristian.gomez\\source\\repos\\HunterMovies\\HunterTest\\HunterTest.csproj",
+      "projectUniqueName": "C:\\Users\\cristian.gomez\\Desktop\\Hunter-Prueba\\HunterTest\\HunterTest.csproj",
       "projectName": "HunterTest",
-      "projectPath": "C:\\Users\\cristian.gomez\\source\\repos\\HunterMovies\\HunterTest\\HunterTest.csproj",
+      "projectPath": "C:\\Users\\cristian.gomez\\Desktop\\Hunter-Prueba\\HunterTest\\HunterTest.csproj",
       "packagesPath": "C:\\Users\\cristian.gomez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cristian.gomez\\source\\repos\\HunterMovies\\HunterTest\\obj\\",
+      "outputPath": "C:\\Users\\cristian.gomez\\Desktop\\Hunter-Prueba\\HunterTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cristian.gomez\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8316,8 +8316,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\cristian.gomez\\source\\repos\\HunterMovies\\HunterMovies\\HunterMovies.csproj": {
-              "projectPath": "C:\\Users\\cristian.gomez\\source\\repos\\HunterMovies\\HunterMovies\\HunterMovies.csproj"
+            "C:\\Users\\cristian.gomez\\Desktop\\Hunter-Prueba\\HunterMovies\\HunterMovies.csproj": {
+              "projectPath": "C:\\Users\\cristian.gomez\\Desktop\\Hunter-Prueba\\HunterMovies\\HunterMovies.csproj"
             }
           }
         }
